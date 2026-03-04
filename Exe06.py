@@ -10,11 +10,11 @@ A=10
 B=5
 '''
 
-X, Y = map(float, input("Fala 2 numeros: ").split())
+A, B = map(float, input("Fala 2 numeros: ").split())
 
 print("X=", X, "Y=", Y)
 
 print("Vou inverter os números: ")
 
-X, Y = Y, X
-print("X=", X, "Y=", Y)
+A, B = B, A
+print("A=", A, "B=", B)

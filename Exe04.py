@@ -10,6 +10,7 @@ Exemplo:
 #Entrada
 numero = int(input('Fale um numero de 1 a 10: '))
 #Processamento
+#Saida
 print(numero * 1)
 print(numero * 2)
 print(numero * 3)
@@ -20,4 +21,3 @@ print(numero * 7)
 print(numero * 8)
 print(numero * 9)
 print (numero * 10)
-#Saida
